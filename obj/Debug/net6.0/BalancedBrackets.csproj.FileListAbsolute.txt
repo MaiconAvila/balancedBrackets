@@ -1,0 +1,15 @@
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\bin\Debug\net6.0\BalancedBrackets.exe
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\bin\Debug\net6.0\BalancedBrackets.deps.json
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\bin\Debug\net6.0\BalancedBrackets.runtimeconfig.json
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\bin\Debug\net6.0\BalancedBrackets.dll
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\bin\Debug\net6.0\BalancedBrackets.pdb
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\obj\Debug\net6.0\BalancedBrackets.csproj.AssemblyReference.cache
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\obj\Debug\net6.0\BalancedBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\obj\Debug\net6.0\BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\obj\Debug\net6.0\BalancedBrackets.AssemblyInfo.cs
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\obj\Debug\net6.0\BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\obj\Debug\net6.0\BalancedBrackets.dll
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\obj\Debug\net6.0\refint\BalancedBrackets.dll
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\obj\Debug\net6.0\BalancedBrackets.pdb
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\obj\Debug\net6.0\BalancedBrackets.genruntimeconfig.cache
+C:\Users\MaiconAvila\Documents\Maicon-Avila\back-end\BalancedBrackets\obj\Debug\net6.0\ref\BalancedBrackets.dll
