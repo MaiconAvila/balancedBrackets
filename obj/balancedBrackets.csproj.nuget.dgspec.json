@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MaiconAvila\\Documents\\Maicon-Avila\\back-end\\csharp\\BalancedBrackets\\balancedBrackets.csproj": {}
+    "C:\\Users\\MaiconAvila\\Documents\\Maicon-Avila\\back-end\\csharp\\balancedBrackets\\balancedBrackets.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MaiconAvila\\Documents\\Maicon-Avila\\back-end\\csharp\\BalancedBrackets\\balancedBrackets.csproj": {
+    "C:\\Users\\MaiconAvila\\Documents\\Maicon-Avila\\back-end\\csharp\\balancedBrackets\\balancedBrackets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MaiconAvila\\Documents\\Maicon-Avila\\back-end\\csharp\\BalancedBrackets\\balancedBrackets.csproj",
+        "projectUniqueName": "C:\\Users\\MaiconAvila\\Documents\\Maicon-Avila\\back-end\\csharp\\balancedBrackets\\balancedBrackets.csproj",
         "projectName": "balancedBrackets",
-        "projectPath": "C:\\Users\\MaiconAvila\\Documents\\Maicon-Avila\\back-end\\csharp\\BalancedBrackets\\balancedBrackets.csproj",
+        "projectPath": "C:\\Users\\MaiconAvila\\Documents\\Maicon-Avila\\back-end\\csharp\\balancedBrackets\\balancedBrackets.csproj",
         "packagesPath": "C:\\Users\\MaiconAvila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MaiconAvila\\Documents\\Maicon-Avila\\back-end\\csharp\\BalancedBrackets\\obj\\",
+        "outputPath": "C:\\Users\\MaiconAvila\\Documents\\Maicon-Avila\\back-end\\csharp\\balancedBrackets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

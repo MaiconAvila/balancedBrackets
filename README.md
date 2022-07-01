@@ -3,10 +3,9 @@
 
   &#xa0;
 
-  <!-- <a href="https://balancedbrackets.netlify.com">Demo</a> -->
 </div>
 
-<h1 align="center">BalancedBrackets</h1>
+<h1 align="center">Balanced Brackets</h1>
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/MaiconAvila/balancedbrackets?color=56BEB8">
@@ -14,23 +13,7 @@
   <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/MaiconAvila/balancedbrackets?color=56BEB8">
 
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/MaiconAvila/balancedbrackets?color=56BEB8">
-
-  <img alt="Licença" src="https://img.shields.io/github/license/MaiconAvila/balancedbrackets?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/MaiconAvila/balancedbrackets?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/MaiconAvila/balancedbrackets?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/MaiconAvila/balancedbrackets?color=56BEB8" /> -->
 </p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  BalancedBrackets 🚀 Em construção...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
@@ -38,7 +21,6 @@
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/MaiconAvila" target="_blank">Autor</a>
 </p>
 
@@ -46,50 +28,38 @@
 
 ## :dart: Sobre ##
 
-Sobre o seu projeto
+Projeto criado para checar se uma string de colchetes é válida ou não.
 
 ## :sparkles: Funcionalidades ##
 
-:heavy_check_mark: Funcionalidade 1;\
-:heavy_check_mark: Funcionalidade 2;\
-:heavy_check_mark: Funcionalidade 3;
+:heavy_check_mark: O usuário consegue inserir o valor pelo console;
+:heavy_check_mark: Verifica se colchetes, chaves ou parenteses são válidos ou não;\
+:heavy_check_mark: Retorna ao usuário se o valor é válido ou não;\
 
 ## :rocket: Tecnologias ##
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [.NET Core](https://dotnet.microsoft.com/en-us/)
 
 ## :white_check_mark: Pré requisitos ##
 
-Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com), o [Visual Studio](https://visualstudio.microsoft.com/downloads/) e o [.NET 6](https://download.visualstudio.microsoft.com/download/pr/15ab772d-ce5c-46e5-a90e-57df11adabfb/4b1b1330b6279a50c398f94cf716c71e/dotnet-sdk-6.0.301-win-x64.exe) instalados em sua maquina.
 
 ## :checkered_flag: Começando ##
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/MaiconAvila/balancedbrackets
+$ git clone https://github.com/MaiconAvila/balancedBrackets.git
 
 # Entre na pasta
 $ cd balancedbrackets
 
-# Instale as dependências
-$ yarn
-
 # Para iniciar o projeto
-$ yarn start
+$ dentro da pasta clique com o botão direito no arquivo (BalancedBrackets.sln) e abra com o visual studio
 
-# O app vai inicializar em <http://localhost:3000>
+# O app vai inicializar um console e o usuário pode inserir os dados
 ```
-
-## :memo: Licença ##
-
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 
 Feito com :heart: por <a href="https://github.com/MaiconAvila" target="_blank">Maicon Avila</a>
 
