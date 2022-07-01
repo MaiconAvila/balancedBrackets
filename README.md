@@ -32,13 +32,13 @@ Projeto criado para checar se uma string de colchetes é válida ou não.
 
 ## :sparkles: Funcionalidades ##
 
-:heavy_check_mark: O usuário consegue inserir o valor pelo console;
+:heavy_check_mark: O usuário consegue inserir o valor pelo console;\
 :heavy_check_mark: Verifica se colchetes, chaves ou parenteses são válidos ou não;\
 :heavy_check_mark: Retorna ao usuário se o valor é válido ou não;\
 
 ## :rocket: Tecnologias ##
 
-As seguintes ferramentas foram usadas na construção do projeto:
+A seguinte ferramenta foi usada na construção do projeto:
 
 - [.NET Core](https://dotnet.microsoft.com/en-us/)
 
@@ -58,7 +58,7 @@ $ cd balancedbrackets
 # Para iniciar o projeto
 $ dentro da pasta clique com o botão direito no arquivo (BalancedBrackets.sln) e abra com o visual studio
 
-# O app vai inicializar um console e o usuário pode inserir os dados
+# O app vai inicializar um console e o usuário poderá inserir os dados
 ```
 
 Feito com :heart: por <a href="https://github.com/MaiconAvila" target="_blank">Maicon Avila</a>
