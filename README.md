@@ -55,8 +55,11 @@ $ git clone https://github.com/MaiconAvila/balancedBrackets.git
 # Entre na pasta
 $ cd balancedbrackets
 
+# Abra a pasta pelo explorer
+$ explorer .
+
 # Para iniciar o projeto
-$ dentro da pasta clique com o botão direito no arquivo (BalancedBrackets.sln) e abra com o visual studio
+dentro da pasta clique com o botão direito no arquivo (BalancedBrackets.sln) e abra com o visual studio
 
 # O app vai inicializar um console e o usuário poderá inserir os dados
 ```
