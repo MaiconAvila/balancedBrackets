@@ -59,7 +59,7 @@ $ cd balancedbrackets
 $ explorer .
 
 # Para iniciar o projeto
-dentro da pasta clique com o botão direito no arquivo (BalancedBrackets.sln) e abra com o visual studio
+dentro da pasta clique com o botão direito no arquivo (BalancedBrackets.sln), abra com o visual studio e clique no play
 
 # O app vai inicializar um console e o usuário poderá inserir os dados
 ```
