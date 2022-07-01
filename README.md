@@ -34,7 +34,7 @@ Projeto criado para checar se uma string de colchetes é válida ou não.
 
 :heavy_check_mark: O usuário consegue inserir o valor pelo console;\
 :heavy_check_mark: Verifica se colchetes, chaves ou parenteses são válidos ou não;\
-:heavy_check_mark: Retorna ao usuário se o valor é válido ou não;\
+:heavy_check_mark: Retorna ao usuário se o valor é válido ou não;
 
 ## :rocket: Tecnologias ##
 
